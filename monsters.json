@@ -5999,6 +5999,60 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "Bob",
+      "age": 3948,
+      "description": "a big dude",
+      "id": 1001
+    },
+    {
+      "name": "Bobby",
+      "age": 23423,
+      "description": "another big dude",
+      "id": 1002
+    },
+    {
+      "name": "Marley",
+      "age": "23423",
+      "description": "a talented monster",
+      "id": 1003
+    },
+    {
+      "name": "Kwam",
+      "age": "235234",
+      "description": "cool cat",
+      "id": 1004
+    },
+    {
+      "name": "Kaeland",
+      "age": "234234",
+      "description": "silent but deadly",
+      "id": 1005
+    },
+    {
+      "name": "Kaeland",
+      "age": "23434",
+      "description": "another monster",
+      "id": 1006
+    },
+    {
+      "name": "shrek",
+      "age": "34234`",
+      "description": "big, green, and smelly",
+      "id": 1007
+    },
+    {
+      "name": "Ed",
+      "age": "234234",
+      "description": "nerdy monster",
+      "id": 1008
+    },
+    {
+      "name": "Ed",
+      "age": "234324",
+      "description": "nerdy monster",
+      "id": 1009
     }
   ]
 }
